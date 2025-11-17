@@ -2,8 +2,9 @@
 
 <img src="assets/smile.png" width="125" align="right" />
 
+<h3>i'm <strong>farish</strong>, a.k.a. <em>intrusive-rider</em>.</h3>
+
 <p>
-  i'm <strong>farish</strong>, a.k.a. <em>intrusive-rider</em>. <br>
   so i like to code, among many things (why would I have created this account if otherwise?!!). 
 
   i'm currently taking computer science as my major at bandung institute of technology (itb) 🐘. <br>
