@@ -5,7 +5,8 @@
 <h3>i'm <strong>farish</strong>, a.k.a. <em>intrusive-rider</em>.</h3>
 
 <p>
-  so i like to code, among many things (why would I have created this account if otherwise?!!). 
+  so i like to code, among many things (why would I have created this account?!!). <br>
+  if you judge otherwise, one thing to keep in your mind that i am ✨ dumb af ✨
 
   i'm currently taking computer science as my major at bandung institute of technology (itb) 🐘. <br>
   hopefully I can get thru this shi... 😪
