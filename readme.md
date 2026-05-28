@@ -1,18 +1,44 @@
-# hi there :3
+# Hi there, I'm Farish.
+> a.k.a. _intrusive-rider_.
 
-<img src="assets/smile.png" width="125" align="right" />
+### About me
 
-### i'm farish, a.k.a. _intrusive-rider_.
+Used to be based in Surabaya, Indonesia. <br>
+Now mostly in Bandung, Indonesia.
 
-so i like to code, among many other things (why would I have created this account?!!). <br>
-if you judge otherwise from my stats below, one thing to keep in your mind is this: i am ✨ dumb af ✨
+I'm currently enrolled in Informatics Engineering @ Bandung Institute of Technology.
 
-i'm currently taking computer science as my major at bandung institute of technology (itb) 🐘. <br>
-hopefully I can get thru this shi... 😪
-  
-> my commits are absolutely beautiful /s
+Trying to get or be better at:
+- Programming (mostly low-level stuff)
+- All things CTF and cybersec
+- Composing music
+- Photography
+- Ricing my Linux machine
+- College
+
+<div>
+  <strong>Languages</strong> <br><br>
+  <img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-darkslategray?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-orangered?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-seagreen?style=for-the-badge&logo=python&logoColor=white" />
+</div> <br>
+
+<div>
+  <strong>Frameworks/Libs</strong> <br><br>
+  <img src="https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-white?style=for-the-badge&logo=tailwind-css" />
+  <img src="https://img.shields.io/badge/Flutter-darkslateblue?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</div> <br>
+
+<div>
+  <strong>Tools</strong> <br><br>
+  <img src="https://img.shields.io/badge/Git-firebrick?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zed-gray?style=for-the-badge&logo=zedindustries" />
+  <img src="https://img.shields.io/badge/Fedora-midnightblue?style=for-the-badge&logo=fedora&logoColor=white" />
+</div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="125"> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=intrusive-rider&count_private=true&theme=transparent" alt="intrusive-rider's lang stats" />
+  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="200"> <br>
 </div>
