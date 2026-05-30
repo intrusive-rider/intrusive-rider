@@ -11,11 +11,12 @@ I'm currently enrolled in Informatics Engineering @ Bandung Institute of Technol
 Always working on being better at:
 - **Programming**
   - Focusing on low-level stuff for now
+  - Maybe game dev too someday
 - **Math/physics** stuff
   - Probably not getting to deep theoretical areas, idk
 - All things **CTF** and cybersec
 - Composing and playing **music** 
-  - Mostly classical, sometimes electronic-adjacent too
+  - Mostly (Western) classical, sometimes electronic-adjacent too
 - **Photography**
 - **Ricing** my Linux machine
   - Using [Niri](https://github.com/niri-wm/niri) w/ [Noctalia](https://noctalia.dev/) rn
