@@ -8,13 +8,17 @@ Now mostly in Bandung, Indonesia.
 
 I'm currently enrolled in Informatics Engineering @ Bandung Institute of Technology.
 
-Trying to get or be better at:
-- Programming (mostly low-level stuff)
-- All things CTF and cybersec
-- Composing music
-- Photography
-- Ricing my Linux machine
-- College
+Trying to get _or_ be better at:
+- **Programming** (mostly low-level stuff)
+- **Math/physics** stuff
+- All things **CTF** and cybersec
+- Composing **music**
+- **Photography**
+- **Ricing** my Linux machine
+- **College**
+
+And most importantly:
+- Personal **productivity** (how to learn, how to manage time, etc.)
 
 <div>
   <strong>Languages</strong> <br><br>
