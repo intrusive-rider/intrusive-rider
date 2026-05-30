@@ -8,17 +8,22 @@ Now mostly in Bandung, Indonesia.
 
 I'm currently enrolled in Informatics Engineering @ Bandung Institute of Technology.
 
-Trying to get _or_ be better at:
-- **Programming** (mostly low-level stuff)
+Always working on being better at:
+- **Programming**
+  - Focusing on low-level stuff for now
 - **Math/physics** stuff
+  - Probably not getting to deep theoretical areas, idk
 - All things **CTF** and cybersec
-- Composing **music**
+- Composing and playing **music** 
+  - Mostly classical, sometimes electronic-adjacent too
 - **Photography**
 - **Ricing** my Linux machine
-- **College**
+  - Using [Niri](https://github.com/niri-wm/niri) w/ [Noctalia](https://noctalia.dev/) rn
 
 And most importantly:
-- Personal **productivity** (how to learn, how to manage time, etc.)
+- **College**
+- Personal **productivity**
+  - How to learn, how to manage time, etc.
 
 <div>
   <strong>Languages</strong> <br><br>
